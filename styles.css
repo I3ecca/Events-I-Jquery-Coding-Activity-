@@ -55,10 +55,10 @@
 }
 
 .gallery img {
-  /* position: absolute; */
-  /* height: 400px; */
-  /* width: 600px; */
-  /* left: 600px; */
+  /* position: absolute;
+  height: 400px;
+  width: 600px;
+  left: 600px; */
 }
 
 .gallery img:nth-child(1) {
